@@ -1,7 +1,7 @@
 .output {
   margin: 10px;
   width: 50%;
-  border: 2px solid #f44283;
+  border: 2px solid blue;
   display: inline-block;
   text-align: center;
   font-family: 'Major Mono Display', monospace;
